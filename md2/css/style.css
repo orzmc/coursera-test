@@ -52,15 +52,15 @@ p {
   }  
  
   .chicken{
-    background-color:deeppink;         
+    background-color: lightpink;
     color: black;
     }
    .beef{
-    background-color: maroon;
+    background-color: indianred;
     color: white;  
    }
    .sushi{
-    background-color:sandybrown;
+    background-color: sandybrown;
     color: black;   
    }
 
